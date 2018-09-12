@@ -1,4 +1,3 @@
-
 keeplooping = true
 puts "what is your string? input as 1,2,3, etc."
 number_str = gets.chomp
@@ -26,13 +25,3 @@ while (keeplooping)
    x += 1
    j += 1
 end
-
- 
-
-
-
-
-
-
-
-
